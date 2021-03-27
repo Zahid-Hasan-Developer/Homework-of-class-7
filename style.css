@@ -1,0 +1,150 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,400;0,900;1,900&display=swap');
+body{
+    font-family: 'Roboto', sans-serif;
+    font-weight: 900;
+}
+.heading{
+
+    text-align: center;
+    background-image: url(apple.jpg);
+    background-size: cover;
+    background-position:center;
+    background-attachment: fixed;
+    border: 6px dashed rgb(76, 0, 255) ;
+    border-radius: 50px;
+    margin: 40px 50px;
+    padding: 50px;
+}
+    chment: f
+    #heading second{
+        text-align: center;
+    }
+
+    .paragraph{
+        margin: 0px 100px;
+        color: teal;
+        text-transform: initial;
+        text-justify: auto;
+    }
+
+
+h2{
+    text-align: center;
+    color: rgb(68, 0, 255);
+}
+h3{
+    margin: auto;
+    text-align: center;
+    color: rgb(21, 6, 243);
+}
+.main{
+    color: rgb(248, 12, 12);
+    margin: 30px 80px;
+}
+.box{
+    color: deeppink;
+    margin-left: 500px;
+}
+.one{
+    color: firebrick;
+}
+.two{
+    color: rgb(26, 31, 2);
+}
+#three{
+    color: rgb(247, 6, 6);
+}
+.image{
+    border-radius: 0px 150px ;
+}
+.h-one{
+    text-align: center;
+    color: magenta;
+}
+.h-two{
+    text-align: left;
+    color: maroon;
+}
+.h-three{
+    text-align: right;
+    color: orange;
+}
+.p-one{
+    margin: 0px 500px;
+    text-align: justify;
+
+}
+.pa-one{
+    margin: 0px 500px;
+    color: orangered;
+    text-align: justify;
+    text-transform: small;
+}
+.pa-two{
+    margin: 0px 500px;
+    color: rgb(47, 0, 255);
+    text-align: justify;
+    text-transform: uppercase;
+}
+.pa-three{
+    margin: 0px 500px;
+    color: rgb(255, 0, 140);
+    text-align: justify;
+    text-transform: lowercase;
+}
+.pa-four{
+    margin: 0px 500px;
+    color: rgb(255, 0, 0);
+    text-align: justify;
+    text-transform: capitalize;
+}
+
+.un{
+    text-decoration: dotted;
+}
+.und{
+    text-decoration: line-through;
+}
+.unde{
+    text-decoration: overline;
+}
+.spacing{
+    font-size: 30px;
+    letter-spacing: 7px;
+    line-height: 1px;
+    font-style: italic;
+}
+.spaci{
+    font-size: 20px;
+    letter-spacing: 15px;
+    line-height: 50px;
+    font-style: italic;
+    font-weight: 700;
+}
+.icon{
+    font-size: 80px;
+}
+.google{
+    color: rgb(255, 0, 119);
+}
+.google :hover{
+    color: rgb(20, 220, 80);
+}
+ul.a{
+    list-style-type: circle;
+    color: blue;
+}
+ul.b{
+    list-style-type: square;
+    color: blueviolet;
+}
+
+ul.c{
+    list-style-type: upper-roman;
+    color: rgb(43, 226, 98);
+}
+ul.d{
+    list-style-type: lower-alpha;
+    color: rgb(226, 43, 43);
+}
+
